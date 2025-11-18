@@ -1,3 +1,11 @@
-<div align="center">
-  <img height="500" src="https://i.pinimg.com/originals/e7/be/14/e7be1401e2080de3e8b79c12bfc34e9c.gif" alt="Coding GIF" />
-</div>
+<img width="1584" height="400" alt="coverLinkedin" src="https://github.com/user-attachments/assets/b3e313d2-a107-4fcc-b76b-8c60782f69b5" />
+
+### hey — i'm marouane.
+
+i build tools, break things, fix them, and repeat.
+
+> **95**  
+> a challenge-first platform for developers who prefer real problems over warm-up exercises.
+
+if you like learning by doing, you’ll probably like it: **https://95ninefive.dev**
+
