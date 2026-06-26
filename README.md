@@ -4,8 +4,6 @@ i build tools, break things, fix them, and repeat.
 
 currently working on **[95](https://95ninefive.dev)** — a challenge-first platform for developers who prefer real problems over warm-up exercises.
 
-<br>
-
 **things i'm learninh**
 
 - ai engineering 
