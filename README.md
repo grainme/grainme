@@ -1,11 +1,19 @@
-<img width="1584" height="400" alt="coverLinkedin" src="https://github.com/user-attachments/assets/b3e313d2-a107-4fcc-b76b-8c60782f69b5" />
-
-### hey — i'm marouane.
+### hey - i'm marouane.
 
 i build tools, break things, fix them, and repeat.
 
-> **95**  
-> a challenge-first platform for developers who prefer real problems over warm-up exercises.
+currently working on **[95](https://95ninefive.dev)** — a challenge-first platform for developers who prefer real problems over warm-up exercises.
 
-if you like learning by doing, you’ll probably like it: **https://95ninefive.dev**
+<br>
 
+**things i'm learninh**
+
+- ai engineering 
+- systems programming
+- competitive programming
+
+> on boot.dev
+
+<a href="https://www.boot.dev/u/grainme">
+  <img src="https://api.boot.dev/v1/users/public/337619c4-e9aa-4997-997a-04496fc7878e/thumbnail" height="170" />
+</a>
