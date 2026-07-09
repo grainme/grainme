@@ -1,14 +1,11 @@
 ### hey - i'm marouane.
 
-i build tools, break things, fix them, and repeat.
+currently working on **[95](https://95ninefive.dev)** - a challenge-first platform for developers who prefer real problems over warm-up exercises.
 
-currently working on **[95](https://95ninefive.dev)** — a challenge-first platform for developers who prefer real problems over warm-up exercises.
-
-**things i'm learninh**
+**things i'm learning**
 
 - ai engineering 
 - systems programming
-- competitive programming
 
 > on boot.dev
 
