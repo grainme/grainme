@@ -1,11 +1,12 @@
 ### hey - i'm marouane.
 
-currently working on **[95](https://95ninefive.dev)** - a challenge-first platform for developers who prefer real problems over warm-up exercises.
+building on **[95](https://95ninefive.dev)** as a side project.
 
 **things i'm learning**
 
-- ai engineering 
-- systems programming
+- ai
+- networking
+- systems programming 
 
 > on boot.dev
 
