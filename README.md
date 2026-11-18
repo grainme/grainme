@@ -1,11 +1,9 @@
 ### hey - i'm marouane.
 
-building on **[95](https://95ninefive.dev)** as a side project.
-
 **things i'm learning**
 
 - ai
-- networking
+- networking & some devops
 - systems programming 
 
 > on boot.dev
